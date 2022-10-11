@@ -1,1 +1,1 @@
-# The Test Repo for Learning Git
+# Test Repo for Learning Git
